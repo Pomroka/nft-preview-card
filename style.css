@@ -183,7 +183,7 @@ h1 {
   font-weight: var(--fw-bold);
 }
 
-span {
+.price-line > div {
   display: flex;
   align-items: center;
   gap: 0.5em;
